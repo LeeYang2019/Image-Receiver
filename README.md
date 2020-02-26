@@ -3,9 +3,10 @@
 I learned the following from working on this project:
 
     Understand and implement a linked chain of nodes.
-    Gain experience writing classes that implement Java interfaces.
-    Gain experience working with Java references.
-    Implement exceptions and undserstand the difference between checked and unchecked exception
+    Gained experience writing classes that implement Java interfaces.
+    Gained experience working with Java references.
+    Gained experience writing an insert sort algorithm.
+    Implemented exceptions and undserstand the difference between checked and unchecked exception
   
 <Strong>Description</Strong>
 
